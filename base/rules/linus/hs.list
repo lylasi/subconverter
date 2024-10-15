@@ -1,0 +1,17 @@
+# 内容：自定翻墙规则
+# 
+
+
+DOMAIN-SUFFIX,renzhe.cloud
+DOMAIN-SUFFIX,ninjasub.com
+DOMAIN,shutterstock.7eer.net
+DOMAIN-SUFFIX,shutterstock.com
+DOMAIN-SUFFIX,google.dev
+DOMAIN-SUFFIX,meta.com
+DOMAIN-SUFFIX,discordapp.com
+DOMAIN-SUFFIX,discordapp.net
+DOMAIN,bard.google.com
+# DOMAIN-SUFFIX,chatgpt.com
+DOMAIN-SUFFIX,stripe.com
+DOMAIN-SUFFIX,cloudfront.net
+DOMAIN-SUFFIX,diystock.ai

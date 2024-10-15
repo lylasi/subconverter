@@ -1,0 +1,6 @@
+# 配置Direct規則
+
+
+# pixman itv直連
+DOMAIN-SUFFIX,cmvideo.cn
+DOMAIN-SUFFIX,dnsany.com

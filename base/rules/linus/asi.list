@@ -1,0 +1,35 @@
+# 内容：自定翻墙规则
+# 
+
+DOMAIN-SUFFIX,renzhe.cloud
+DOMAIN-SUFFIX,ninjasub.com
+DOMAIN-SUFFIX,poe.com
+DOMAIN,ngedlktfticp.cloud.sealos.io
+DOMAIN-SUFFIX,cloud.sealos.io
+DOMAIN-SUFFIX,clientstream.launchdarkly.com
+DOMAIN-SUFFIX,ngedlktfticp.cloud.sealos.io
+DOMAIN-SUFFIX,dbankcdn.com
+DOMAIN-SUFFIX,docker.io
+
+# 台湾
+DOMAIN-SUFFIX,cdn.hinet.net
+
+# 海外
+DOMAIN-SUFFIX,livednow.com
+DOMAIN-SUFFIX,orz-7.com
+DOMAIN-SUFFIX,4gtv.tv
+DOMAIN-SUFFIX,hinet.net
+DOMAIN-SUFFIX,ofiii.com
+DOMAIN-SUFFIX,mytvsuper.com
+DOMAIN-SUFFIX,thetvapp.to
+DOMAIN-SUFFIX,mytvsuper.com
+
+# 直播
+DOMAIN-SUFFIX,stream-link.org
+DOMAIN-SUFFIX,stream-link.online
+
+
+# DOMAIN-SUFFIX,sentry.io
+DOMAIN-SUFFIX,sealos.io
+IP-CIDR,119.8.176.236/32
+IP-CIDR,34.87.173.252/32
